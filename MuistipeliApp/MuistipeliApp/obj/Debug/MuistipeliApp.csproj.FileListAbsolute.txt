@@ -1,0 +1,52 @@
+C:\AMK Hommia\Ohjelmointi 2\Harjoitustyö\MuistipeliApp\MuistipeliApp\bin\Debug\MuistipeliApp.exe.config
+C:\AMK Hommia\Ohjelmointi 2\Harjoitustyö\MuistipeliApp\MuistipeliApp\bin\Debug\MuistipeliApp.exe
+C:\AMK Hommia\Ohjelmointi 2\Harjoitustyö\MuistipeliApp\MuistipeliApp\bin\Debug\MuistipeliApp.pdb
+C:\AMK Hommia\Ohjelmointi 2\Harjoitustyö\MuistipeliApp\MuistipeliApp\obj\Debug\MuistipeliApp.csproj.AssemblyReference.cache
+C:\AMK Hommia\Ohjelmointi 2\Harjoitustyö\MuistipeliApp\MuistipeliApp\obj\Debug\MuistipeliApp.csproj.SuggestedBindingRedirects.cache
+C:\AMK Hommia\Ohjelmointi 2\Harjoitustyö\MuistipeliApp\MuistipeliApp\obj\Debug\MuistipeliApp.Properties.Resources.resources
+C:\AMK Hommia\Ohjelmointi 2\Harjoitustyö\MuistipeliApp\MuistipeliApp\obj\Debug\MuistipeliApp.csproj.GenerateResource.cache
+C:\AMK Hommia\Ohjelmointi 2\Harjoitustyö\MuistipeliApp\MuistipeliApp\obj\Debug\MuistipeliApp.csproj.CoreCompileInputs.cache
+C:\AMK Hommia\Ohjelmointi 2\Harjoitustyö\MuistipeliApp\MuistipeliApp\obj\Debug\MuistipeliApp.exe
+C:\AMK Hommia\Ohjelmointi 2\Harjoitustyö\MuistipeliApp\MuistipeliApp\obj\Debug\MuistipeliApp.pdb
+C:\AMK Hommia\Ohjelmointi 2\Harjoitustyö\MuistipeliApp\MuistipeliApp\bin\Debug\Newtonsoft.Json.dll
+C:\AMK Hommia\Ohjelmointi 2\Harjoitustyö\MuistipeliApp\MuistipeliApp\bin\Debug\Newtonsoft.Json.xml
+C:\AMK Hommia\Ohjelmointi 2\Harjoitustyö\MuistipeliApp\MuistipeliApp\obj\Debug\MuistipeliApp.csproj.CopyComplete
+C:\AMK Hommia\Ohjelmointi 2\Harjoitustyö\MuistipeliApp\MuistipeliApp\obj\Debug\MuistipeliApp.myMessageBox.resources
+C:\AMK Hommia\Ohjelmointi 2\Harjoitustyö\MuistipeliApp\MuistipeliApp\obj\Debug\MuistipeliApp.FrmMainMenu.resources
+C:\AMK Hommia\Ohjelmointi 2\Harjoitustyö\MuistipeliApp\MuistipeliApp\obj\Debug\MuistipeliApp.FrmPlayerStats.resources
+C:\AMK Hommia\Ohjelmointi 2\Harjoitustyö\MuistipeliApp\MuistipeliApp\obj\Debug\MuistipeliApp.FrmSettings.resources
+C:\AMK Hommia\Ohjelmointi 2\Harjoitustyö\MuistipeliApp\MuistipeliApp\bin\Debug\Interop.WMPLib.dll
+C:\AMK Hommia\Ohjelmointi 2\Harjoitustyö\MuistipeliApp\MuistipeliApp\bin\Debug\AxInterop.WMPLib.dll
+C:\AMK Hommia\Ohjelmointi 2\Harjoitustyö\MuistipeliApp\MuistipeliApp\obj\Debug\Interop.WMPLib.dll
+C:\AMK Hommia\Ohjelmointi 2\Harjoitustyö\MuistipeliApp\MuistipeliApp\obj\Debug\AxInterop.WMPLib.dll
+C:\AMK Hommia\Ohjelmointi 2\Harjoitustyö\MuistipeliApp\MuistipeliApp\obj\Debug\MuistipeliApp.csproj.ResolveComReference.cache
+C:\AMK Hommia\Ohjelmointi 2\Harjoitustyö\MuistipeliApp\MuistipeliApp\obj\Debug\MuistipeliApp.FrmCardsSinglePlayer.resources
+C:\AMK Hommia\Ohjelmointi 2\Harjoitustyö\MuistipeliApp\MuistipeliApp\obj\Debug\MuistipeliApp.FrmCardsMultiPlayer.resources
+C:\AMK Hommia\Ohjelmointi 2\Harjoitustyö\MuistipeliApp\MuistipeliApp\obj\Debug\MuistipeliApp.FrmGameInfoSP.resources
+C:\AMK Hommia\Ohjelmointi 2\Harjoitustyö\MuistipeliApp\MuistipeliApp\obj\Debug\MuistipeliApp.FrmGameInfoMultiPlayer.resources
+C:\AMK Hommia\Ohjelmointi 2\Harjoitustyo\MuistipeliApp (1)\MuistipeliApp\MuistipeliApp\bin\Debug\MuistipeliApp.exe.config
+C:\AMK Hommia\Ohjelmointi 2\Harjoitustyo\MuistipeliApp (1)\MuistipeliApp\MuistipeliApp\bin\Debug\MuistipeliApp.exe
+C:\AMK Hommia\Ohjelmointi 2\Harjoitustyo\MuistipeliApp (1)\MuistipeliApp\MuistipeliApp\bin\Debug\MuistipeliApp.pdb
+C:\AMK Hommia\Ohjelmointi 2\Harjoitustyo\MuistipeliApp (1)\MuistipeliApp\MuistipeliApp\bin\Debug\Newtonsoft.Json.dll
+C:\AMK Hommia\Ohjelmointi 2\Harjoitustyo\MuistipeliApp (1)\MuistipeliApp\MuistipeliApp\bin\Debug\Newtonsoft.Json.xml
+C:\AMK Hommia\Ohjelmointi 2\Harjoitustyo\MuistipeliApp (1)\MuistipeliApp\MuistipeliApp\bin\Debug\Interop.WMPLib.dll
+C:\AMK Hommia\Ohjelmointi 2\Harjoitustyo\MuistipeliApp (1)\MuistipeliApp\MuistipeliApp\bin\Debug\AxInterop.WMPLib.dll
+C:\AMK Hommia\Ohjelmointi 2\Harjoitustyo\MuistipeliApp (1)\MuistipeliApp\MuistipeliApp\obj\Debug\MuistipeliApp.csproj.AssemblyReference.cache
+C:\AMK Hommia\Ohjelmointi 2\Harjoitustyo\MuistipeliApp (1)\MuistipeliApp\MuistipeliApp\obj\Debug\MuistipeliApp.csproj.SuggestedBindingRedirects.cache
+C:\AMK Hommia\Ohjelmointi 2\Harjoitustyo\MuistipeliApp (1)\MuistipeliApp\MuistipeliApp\obj\Debug\Interop.WMPLib.dll
+C:\AMK Hommia\Ohjelmointi 2\Harjoitustyo\MuistipeliApp (1)\MuistipeliApp\MuistipeliApp\obj\Debug\AxInterop.WMPLib.dll
+C:\AMK Hommia\Ohjelmointi 2\Harjoitustyo\MuistipeliApp (1)\MuistipeliApp\MuistipeliApp\obj\Debug\MuistipeliApp.csproj.ResolveComReference.cache
+C:\AMK Hommia\Ohjelmointi 2\Harjoitustyo\MuistipeliApp (1)\MuistipeliApp\MuistipeliApp\obj\Debug\MuistipeliApp.FrmCardsSinglePlayer.resources
+C:\AMK Hommia\Ohjelmointi 2\Harjoitustyo\MuistipeliApp (1)\MuistipeliApp\MuistipeliApp\obj\Debug\MuistipeliApp.FrmCardsMultiPlayer.resources
+C:\AMK Hommia\Ohjelmointi 2\Harjoitustyo\MuistipeliApp (1)\MuistipeliApp\MuistipeliApp\obj\Debug\MuistipeliApp.FrmGameInfoSP.resources
+C:\AMK Hommia\Ohjelmointi 2\Harjoitustyo\MuistipeliApp (1)\MuistipeliApp\MuistipeliApp\obj\Debug\MuistipeliApp.FrmGameInfoMultiPlayer.resources
+C:\AMK Hommia\Ohjelmointi 2\Harjoitustyo\MuistipeliApp (1)\MuistipeliApp\MuistipeliApp\obj\Debug\MuistipeliApp.FrmMainMenu.resources
+C:\AMK Hommia\Ohjelmointi 2\Harjoitustyo\MuistipeliApp (1)\MuistipeliApp\MuistipeliApp\obj\Debug\MuistipeliApp.FrmPlayerStats.resources
+C:\AMK Hommia\Ohjelmointi 2\Harjoitustyo\MuistipeliApp (1)\MuistipeliApp\MuistipeliApp\obj\Debug\MuistipeliApp.FrmSettings.resources
+C:\AMK Hommia\Ohjelmointi 2\Harjoitustyo\MuistipeliApp (1)\MuistipeliApp\MuistipeliApp\obj\Debug\MuistipeliApp.myMessageBox.resources
+C:\AMK Hommia\Ohjelmointi 2\Harjoitustyo\MuistipeliApp (1)\MuistipeliApp\MuistipeliApp\obj\Debug\MuistipeliApp.Properties.Resources.resources
+C:\AMK Hommia\Ohjelmointi 2\Harjoitustyo\MuistipeliApp (1)\MuistipeliApp\MuistipeliApp\obj\Debug\MuistipeliApp.csproj.GenerateResource.cache
+C:\AMK Hommia\Ohjelmointi 2\Harjoitustyo\MuistipeliApp (1)\MuistipeliApp\MuistipeliApp\obj\Debug\MuistipeliApp.csproj.CoreCompileInputs.cache
+C:\AMK Hommia\Ohjelmointi 2\Harjoitustyo\MuistipeliApp (1)\MuistipeliApp\MuistipeliApp\obj\Debug\MuistipeliApp.csproj.CopyComplete
+C:\AMK Hommia\Ohjelmointi 2\Harjoitustyo\MuistipeliApp (1)\MuistipeliApp\MuistipeliApp\obj\Debug\MuistipeliApp.exe
+C:\AMK Hommia\Ohjelmointi 2\Harjoitustyo\MuistipeliApp (1)\MuistipeliApp\MuistipeliApp\obj\Debug\MuistipeliApp.pdb
