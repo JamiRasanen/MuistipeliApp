@@ -1,3 +1,3 @@
 # MuistipeliApp
-Ohjelmointi kurssinprojekti muistipelistä.
+Ohjelmointikurssin projekti muistipelistä.
 Tehty windows formsilla ja c#
